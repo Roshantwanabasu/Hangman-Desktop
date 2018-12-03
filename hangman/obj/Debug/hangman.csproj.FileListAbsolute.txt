@@ -1,0 +1,15 @@
+D:\songs\hangman\hangman\bin\Debug\hangman.exe.config
+D:\songs\hangman\hangman\bin\Debug\hangman.exe
+D:\songs\hangman\hangman\bin\Debug\hangman.pdb
+D:\songs\hangman\hangman\bin\Debug\MetroFramework.Design.dll
+D:\songs\hangman\hangman\bin\Debug\MetroFramework.dll
+D:\songs\hangman\hangman\bin\Debug\MetroFramework.Fonts.dll
+D:\songs\hangman\hangman\obj\Debug\hangman.csprojResolveAssemblyReference.cache
+D:\songs\hangman\hangman\obj\Debug\hangman.MainMenu.resources
+D:\songs\hangman\hangman\obj\Debug\hangman.Properties.Resources.resources
+D:\songs\hangman\hangman\obj\Debug\hangman.csproj.GenerateResource.Cache
+D:\songs\hangman\hangman\obj\Debug\hangman.exe
+D:\songs\hangman\hangman\obj\Debug\hangman.pdb
+D:\songs\hangman\hangman\obj\Debug\hangman.instruction.resources
+D:\songs\hangman\hangman\obj\Debug\hangman.playGame.resources
+D:\songs\hangman\hangman\obj\Debug\hangman.gameForm.resources
